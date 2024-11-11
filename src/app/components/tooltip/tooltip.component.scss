@@ -1,0 +1,24 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+}
+
+.title {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.lab-icon {
+  margin: 7px;
+}
+
+table {
+  td {
+    word-break: normal;
+  }
+}
+
+.maximum-effect {
+  color: var(--danger-background);
+}
